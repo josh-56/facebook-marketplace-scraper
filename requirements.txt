@@ -1,0 +1,5 @@
+requests
+beautifulsoup4
+
+facebook-marketplace-scraper/.keep
+textPlaceholder for non-code assets like images or static files.
